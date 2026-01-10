@@ -5,6 +5,7 @@ description = "Applied GenAI Graduate Program Lab Assignment"
 requires-python = ">=3.11"
 dependencies = [
     "groq>=0.13.0",
+    "requests>=2.31.0",
 ]
 
 [dependency-groups]
